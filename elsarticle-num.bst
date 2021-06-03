@@ -1,4 +1,4 @@
-%%
+pig%%
 %% This is file `elsarticle-num.bst',
 %% 
 %% Copyright 2007, 2008, 2009 Elsevier Ltd
